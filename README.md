@@ -1,8 +1,6 @@
 ## Hola 👋, Hi Facundo Navarro Medina!
 <a href='https://www.linkedin.com/in/facundo-navarro-medina-5500b11b3/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
-
-
 -------------------------
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 📚 I am a System Analyst student at the University of Buenos Aires
@@ -38,13 +36,6 @@
 
 <br><br/>
 
-
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
