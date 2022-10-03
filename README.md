@@ -1,7 +1,7 @@
 ## Hola 👋, Hi Facundo Navarro Medina!
 <a href='https://www.linkedin.com/in/facundo-navarro-medina-5500b11b3/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
--------------------------
+
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 <br><br/>
 📚 I am a System Analyst student at the University of Buenos Aires
