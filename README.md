@@ -3,12 +3,19 @@
 
 -------------------------
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+<br><br/>
 📚 I am a System Analyst student at the University of Buenos Aires
+<br><br/>
 📝 I have a strong interest in Data Science and BlockChain
+<br><br/>
 🌱 Learning about Java and Blockchain
+<br><br/>
 🌟 Main languages: Java, JavaScript
+<br><br/>
 🚩 Interested in Full Stack Machine Learning Application development
+<br><br/>
 💖 In a complicated relationship with Neural Networks
+<br><br/>
 🎵 Love metal, Pop, jazz and techno music
 
 
