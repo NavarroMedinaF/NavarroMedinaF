@@ -1,15 +1,21 @@
 ## Hola 👋, Hi Facundo Navarro Medina!
-<a href='https://www.linkedin.com/in/santibrito/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-
-<a href='https://twitter.com/santybritoo'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<br>
-
-Soy versátil y me adapto fácilmente a diferentes proyectos (Desarrollador Web Full Stack JAVA🌐) dependiendo de lo que requiera el proyecto. Me encanta explorar nuevas pilas de tecnología 💻 y aprovecharlas para crear productos geniales 🛠️.
-<br/>
+<a href='https://www.linkedin.com/in/facundo-navarro-medina-5500b11b3/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
 
 
-### 🔨 Lenguajes y Herramientas:
+-------------------------
+💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+📚 I am a System Analyst student at the University of Buenos Aires
+📝 I have a strong interest in Data Science and BlockChain
+🌱 Learning about Java and Blockchain
+🌟 Main languages: Java, JavaScript
+🚩 Interested in Full Stack Machine Learning Application development
+💖 In a complicated relationship with Neural Networks
+🎵 Love metal, Pop, jazz and techno music
+
+
+
+### 🔨 Languages and tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html" height="42px"/> </a> 
 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" height="42px"/> </a>
@@ -43,17 +49,17 @@ npx anmol
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const Facundo = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Java"],
+    askMeAbout: ["web dev", "tech", "app dev", "modeling"],
     technologies: {
         backEnd: {
             js: ["Node", "Java", "Spring Boot"],
         },
-        databases: ["PostgreSQL", "MySql"],
-        
+        databases: ["PostgreSQL", "MySql"],  
     },
+     
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
