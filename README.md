@@ -1,4 +1,4 @@
-## Hola 👋, Soy Facundo Navarro Medina!
+## Hola 👋, Hi Facundo Navarro Medina!
 <a href='https://www.linkedin.com/in/santibrito/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
 <a href='https://twitter.com/santybritoo'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
@@ -49,17 +49,12 @@ const anmol = {
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            js: ["Node", "Java", "Spring Boot"],
         },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: ["PostgreSQL", "MySql"],
+        
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Building Robots to ease opertations",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
